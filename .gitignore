@@ -1,0 +1,5 @@
+# Default ignored files
+/workspace.xml
+data/
+.idea/
+snds_to_omop.json
